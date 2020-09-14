@@ -51,7 +51,11 @@ border-radius: 28px;
   color: hsl(212, 23%, 69%);
 
 }
+.btn-share{
+  padding: 1px 4px;
+  border-radius: 5rem;
+  margin: 22px 35px 10px;
+}
 .img-share{
-  width: 18px;
-margin: 30px 35px 10px;
+  padding-bottom:7px;
 }
